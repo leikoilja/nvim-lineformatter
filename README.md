@@ -1,3 +1,4 @@
+[WIP]
 # Example Neovim Python Plugin
 
 - [Introduction](#introduction)
