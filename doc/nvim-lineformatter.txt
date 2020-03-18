@@ -1,0 +1,20 @@
+*nvim-lineformatter.txt* A template of a remote Python plugin.
+
+                           Line Formatter Python Plugin
+
+==============================================================================
+
+CONTENTS                                 *nvim-lineformatter-contents*
+
+    1. Introduction .................... |nvim-lineformatter-intro|
+
+
+Template Author:    Jacob Simpson
+Plugin Author:      Ilja Leiko
+License:            The Unlicense
+
+INTRODUCTION                                *nvim-lineformatter-intro*
+
+A very simple example of a Python plugin in the new remote plugin style used by
+Neovim.
+
